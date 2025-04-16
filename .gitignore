@@ -187,3 +187,10 @@ data/
 
 # For Config Files (Current Settings)
 .config.pkl
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
